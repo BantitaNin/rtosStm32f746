@@ -1,0 +1,16 @@
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1156:6:StartDefaultTask	0	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1200:6:chanel1task	16	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1250:6:chanel2task	16	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1302:6:queuetask	16	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:206:5:enqueueOrder	24	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:215:5:dequeueOrder	16	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:229:6:UART_Printf	112	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:240:6:TriggerAudioPrediction	24	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1173:6:soundtask	16	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:426:6:SystemClock_Config	88	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1054:6:GetManufacturerId	72	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1084:6:EnableMemoryMappedMode	72	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:298:5:main	144	static,ignoring_inline_asm
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1114:6:HAL_UART_RxCpltCallback	16	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1381:6:HAL_TIM_PeriodElapsedCallback	0	static
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1398:6:Error_Handler	0	static

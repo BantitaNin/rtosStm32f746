@@ -1,0 +1,16 @@
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1156:6:StartDefaultTask	1
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1200:6:chanel1task	2
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1250:6:chanel2task	2
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1302:6:queuetask	5
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:206:5:enqueueOrder	2
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:215:5:dequeueOrder	2
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:229:6:UART_Printf	1
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:240:6:TriggerAudioPrediction	8
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1173:6:soundtask	3
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:426:6:SystemClock_Config	1
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1054:6:GetManufacturerId	1
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1084:6:EnableMemoryMappedMode	1
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:298:5:main	3
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1114:6:HAL_UART_RxCpltCallback	5
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1381:6:HAL_TIM_PeriodElapsedCallback	2
+D:/githubspace/rtosStm32f746/RtosIsFun_V2.02/RtosIsFun/MyApplication/Core/Src/main.c:1398:6:Error_Handler	1
